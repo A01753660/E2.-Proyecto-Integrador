@@ -11,6 +11,7 @@ class Pelicula : Video {
     public:
     Pelicula();
     Pelicula(string,string,int, string);
+    string getTipo() override;
     string mostrarInfo() override;
 
 
