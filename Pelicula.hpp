@@ -10,7 +10,7 @@ using namespace std;
 class Pelicula : Video {
     public:
     Pelicula();
-    Pelicula(string,int,string, string);
+    Pelicula(string,string,int, string);
     string mostrarInfo() override;
 
 
