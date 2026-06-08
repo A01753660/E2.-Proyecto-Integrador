@@ -26,8 +26,6 @@ protected:
 public:
     string getNombre();
     string getGenero();
-    string getId();
-    virtual string getTipo() = 0;
     virtual string mostrarInfo() = 0;
     virtual string mostrarInfo(bool detalle);
     virtual void calificar(int) override;
