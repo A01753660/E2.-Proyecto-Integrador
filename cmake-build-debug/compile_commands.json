@@ -1,38 +1,44 @@
 [
 {
-  "directory": "D:/Progra/Proyecto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -ID:/Progra/Proyecto/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Video.cpp.obj -c D:\\Progra\\Proyecto\\Video.cpp",
-  "file": "D:/Progra/Proyecto/Video.cpp",
-  "output": "D:/Progra/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir/Video.cpp.obj"
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\main.cpp.obj -c \"D:\\Progra\\Proyecto Final\\main.cpp\"",
+  "file": "D:/Progra/Proyecto Final/main.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/main.cpp.obj"
 },
 {
-  "directory": "D:/Progra/Proyecto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -ID:/Progra/Proyecto/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Capitulo.cpp.obj -c D:\\Progra\\Proyecto\\Capitulo.cpp",
-  "file": "D:/Progra/Proyecto/Capitulo.cpp",
-  "output": "D:/Progra/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir/Capitulo.cpp.obj"
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Video.cpp.obj -c \"D:\\Progra\\Proyecto Final\\Video.cpp\"",
+  "file": "D:/Progra/Proyecto Final/Video.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/Video.cpp.obj"
 },
 {
-  "directory": "D:/Progra/Proyecto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -ID:/Progra/Proyecto/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Serie.cpp.obj -c D:\\Progra\\Proyecto\\Serie.cpp",
-  "file": "D:/Progra/Proyecto/Serie.cpp",
-  "output": "D:/Progra/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir/Serie.cpp.obj"
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Capitulo.cpp.obj -c \"D:\\Progra\\Proyecto Final\\Capitulo.cpp\"",
+  "file": "D:/Progra/Proyecto Final/Capitulo.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/Capitulo.cpp.obj"
 },
 {
-  "directory": "D:/Progra/Proyecto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -ID:/Progra/Proyecto/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Pelicula.cpp.obj -c D:\\Progra\\Proyecto\\Pelicula.cpp",
-  "file": "D:/Progra/Proyecto/Pelicula.cpp",
-  "output": "D:/Progra/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir/Pelicula.cpp.obj"
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Serie.cpp.obj -c \"D:\\Progra\\Proyecto Final\\Serie.cpp\"",
+  "file": "D:/Progra/Proyecto Final/Serie.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/Serie.cpp.obj"
 },
 {
-  "directory": "D:/Progra/Proyecto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -ID:/Progra/Proyecto/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\CalificacionInvalida.cpp.obj -c D:\\Progra\\Proyecto\\CalificacionInvalida.cpp",
-  "file": "D:/Progra/Proyecto/CalificacionInvalida.cpp",
-  "output": "D:/Progra/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir/CalificacionInvalida.cpp.obj"
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Pelicula.cpp.obj -c \"D:\\Progra\\Proyecto Final\\Pelicula.cpp\"",
+  "file": "D:/Progra/Proyecto Final/Pelicula.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/Pelicula.cpp.obj"
 },
 {
-  "directory": "D:/Progra/Proyecto/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -ID:/Progra/Proyecto/. -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Catalogo.cpp.obj -c D:\\Progra\\Proyecto\\Catalogo.cpp",
-  "file": "D:/Progra/Proyecto/Catalogo.cpp",
-  "output": "D:/Progra/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir/Catalogo.cpp.obj"
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\CalificacionInvalida.cpp.obj -c \"D:\\Progra\\Proyecto Final\\CalificacionInvalida.cpp\"",
+  "file": "D:/Progra/Proyecto Final/CalificacionInvalida.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/CalificacionInvalida.cpp.obj"
+},
+{
+  "directory": "D:/Progra/Proyecto Final/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Progra/Proyecto Final/.\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Proyecto.dir\\Catalogo.cpp.obj -c \"D:\\Progra\\Proyecto Final\\Catalogo.cpp\"",
+  "file": "D:/Progra/Proyecto Final/Catalogo.cpp",
+  "output": "D:/Progra/Proyecto Final/cmake-build-debug/CMakeFiles/Proyecto.dir/Catalogo.cpp.obj"
 }
 ]

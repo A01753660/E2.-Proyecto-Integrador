@@ -7,8 +7,8 @@
 #include "Video.hpp"
 using namespace std;
 
-class Pelicula : Video {
-    public:
+class Pelicula : public Video {
+public:
     Pelicula();
     Pelicula(string,string,int, string);
     string getTipo() override;

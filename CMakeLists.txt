@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Proyecto
+        main.cpp
         ICalificable.hpp
         Video.cpp
         Video.hpp
@@ -20,3 +21,8 @@ add_executable(Proyecto
         Catalogo.cpp
         Catalogo.hpp
 )
+
+add_custom_command(TARGET Proyecto POST_BUILD
+        COMMAND ${CMAKE_COMMAND} -E copy
+        ${CMAKE_SOURCE_DIR}/Proyecto.txt
+        $<TARGET_FILE_DIR:Proyecto>)
