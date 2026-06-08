@@ -34,3 +34,5 @@ string Serie::mostrarInfo(bool detalle) {
     return resultado;
 
 }
+
+string Serie::getTipo() {return "Serie";}
