@@ -1,0 +1,10 @@
+PELICULA P001 Cars 148 accion
+PELICULA P002 Inception 148 cienciaficcion
+PELICULA P003 ToyStory 81 infantil
+SERIE S001 BreakingBad 47 drama
+CAPITULO S001 Pilot 1
+CAPITULO S001 CatsSCratch 1
+SERIE S002 TheOffice 22 comedia
+CAPITULO S002 Pilot 1
+CAPITULO S002 TheSecond 1
+CAPITULO S002 BudgetCuts 2

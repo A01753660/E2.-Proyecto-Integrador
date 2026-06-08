@@ -20,6 +20,10 @@ string Video::getGenero() {
     return genero;
 }
 
+string Video::getId() {
+    return id;
+}
+
 void Video::calificar(int valor) {
     if (valor < 1 || valor > 5) {
         throw CalificacionInvalida{};
