@@ -19,6 +19,7 @@ private:
 public:
     Serie(string, string, int, string);
     void agregarCapitulo(Capitulo);
+    string getTipo() override;
     string mostrarInfo() override;
     string mostrarInfo(bool detalle) override;
 };
