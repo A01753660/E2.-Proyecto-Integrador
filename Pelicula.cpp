@@ -12,3 +12,5 @@ string Pelicula::mostrarInfo() {
     string resultado = "Pelicula: " + getNombre() + "\n" + "Genero: " + getGenero() + "\n" + "Clasificación Promedio: " + to_string(getPromedio()) + "\n";
     return resultado;
 }
+
+string Pelicula::getTipo() { return "Pelicula"; }
