@@ -1,6 +1,5 @@
-//
-// Created by Farid on 07/06/2026.
-//
+// Alejandro Sánchez Calderón A01754913
+// Alan Farid Hernández Sanmartín - A01753660
 
 #include "Catalogo.hpp"
 
