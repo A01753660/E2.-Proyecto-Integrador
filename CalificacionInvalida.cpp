@@ -1,6 +1,6 @@
-//
-// Created by Farid on 07/06/2026.
-//
+
+
+// Alan Farid Hernández Sanmartín - A01753660
 
 #include "CalificacionInvalida.hpp"
 

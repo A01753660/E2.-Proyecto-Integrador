@@ -1,6 +1,4 @@
-//
-// Created by Farid on 07/06/2026.
-//
+// Alejandro Sánchez Calderón A01754913
 
 #include "Catalogo.hpp"
 #include "Pelicula.hpp"

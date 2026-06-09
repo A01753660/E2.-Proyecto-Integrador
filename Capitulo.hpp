@@ -1,6 +1,4 @@
-//
-// Created by Farid on 07/06/2026.
-//
+// Alan Farid Hernández Sanmartín - A01753660
 
 #ifndef PROYECTO_CAPITULO_HPP
 #define PROYECTO_CAPITULO_HPP

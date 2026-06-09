@@ -1,7 +1,4 @@
-//
-// Created by Farid on 07/06/2026.
-//
-
+// Alejandro Sánchez Calderón A01754913
 #ifndef PROYECTO_CATALOGO_HPP
 #define PROYECTO_CATALOGO_HPP
 
